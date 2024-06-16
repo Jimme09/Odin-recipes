@@ -1,0 +1,25 @@
+h1{
+  color: blueviolet;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+a{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html body{
+    background-color: antiquewhite;
+}
+h2{
+    color:maroon;
+}
+
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3{
+    color: aqua;
+}
